@@ -1,0 +1,10 @@
+# Module 3 — Attention & Architecture Walkthrough
+
+Main assignment of Module 3, published as a standalone portfolio repository:
+
+**https://github.com/Crist441/mai600-module3-attention-walkthrough**
+
+- **Domain:** Risk Management in Project Management (PMO)
+- **Contents:** attention walkthrough notebook (tokenization + real DistilBERT attention
+  inspection), five documented attention behaviors, annotated Transformer architecture
+  diagram, README, and AI usage disclosure.
